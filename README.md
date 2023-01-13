@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JunnaBruen
+- 👀 I’m interested in music, finnish language, programming.
+- 🌱 I’m currently learning Flutter.
