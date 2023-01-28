@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @JunnaBruen
-- 👀 I’m interested in music, finnish language, programming.
-- 🌱 I’m currently learning Flutter.
+- 👋 Hei, olen @JunnaBruen.
+- 👀 Pidän musiikista. Opeskelen suomea ja Flutter. Haluan opeskella englantia.
+- 🌱 Luon mobiilisovellusta.
