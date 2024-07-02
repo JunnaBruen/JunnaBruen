@@ -1,3 +1,1 @@
-- 👋 Hei, olen @JunnaBruen.
-- 👀 Pidän musiikista. Opiskelen suomea ja Flutter. Haluan opiskella englantia.
-- 🌱 Luon mobiilisovellusta.
+
